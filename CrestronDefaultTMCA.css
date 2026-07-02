@@ -1,12 +1,3 @@
 .room__container::after {
-    opacity: 0 !important;
-}
-
-.screensaver__container::after {
-    opacity: 0 !important;
-}
-
-.room__image,
-.room__video {
-    filter: none !important;
+  opacity: 0;
 }
